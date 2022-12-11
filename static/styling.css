@@ -1,0 +1,105 @@
+div.form-check.one {
+    padding-left: 50px;
+}
+
+div.studysubmit {
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-top: 30px;
+}
+
+div.login {
+    padding-left: 250px;
+    padding-right: 250px;
+}
+
+div.register {
+    padding-right: 250px;
+    padding-left: 250px;
+    padding-bottom: 50px;
+}
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+div.studyoutput {
+    padding-left: 50px;
+}
+
+body.studybody {
+    padding-bottom: 50px;
+}
+div.chooseselection
+{
+    padding-left: 50px;
+}
+body.register {
+    background-color:#FAF9F6;
+}
+body.login {
+    background-color: #FAF9F6;
+}
+body.home {
+    background-color: #FAF9F6;
+}
+div.welcome {
+    padding-left: 50px;
+}
+div.card-group {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#main {
+    padding-left: 150px;
+    padding-right: 150px;
+}
+
+.studypadding {
+    padding-bottom: 15px;
+
+}
+
+div.studypadding {
+    border-style: solid;
+    border-radius:1rem;
+    margin: 2rem 0rem;
+    border-width: 1px;
+
+}
+
+img.studypadding {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+button.study {
+    margin-left: 15px;
+}
+
+div.study-js {
+    text-align: center;
+}
+
+div.testQ {
+    padding-left: 160px;
+    padding-right: 250px;
+    padding-top: 25px;
+    border-style: solid;
+    border-radius:1rem;
+    margin: 2rem 10rem;
+    border-width: 1px;
+    
+}
+
+img.testimage {
+    padding-bottom: 50px;
+}
+div.grades {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+div.testsubmit {
+    text-align: center;
+    padding-bottom: 25px;
+}
